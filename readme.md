@@ -2,6 +2,8 @@
 
 Number guessing game where you speak your guess into the microphone using the speech recognition API
 
+#### Live Demo https://speakandguess.netlify.app/
+
 ## Project Specifications
 
 - Display UI directing user to speak guess
